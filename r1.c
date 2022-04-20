@@ -49,3 +49,4 @@ int thread_sample(void)
 
 
 MSH_CMD_EXPORT(thread_sample, thread sample);
+
